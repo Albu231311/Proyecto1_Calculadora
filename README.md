@@ -4,12 +4,12 @@
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/Albu231311/Proyecto1_Web.git
+   git clone https://github.com/Albu231311/Proyecto1_Calculadora.git
    ```
 
 2. **Navegar al directorio del proyecto**
    ```bash
-   cd Proyecto1_Web
+   cd Proyecto1_Calculadora
    ```
 
 3. **Instalar dependencias**
